@@ -17,10 +17,11 @@ compare/
 
 # images/
 images_det/
-
 models/*
 predata_dandan/multitask/*.json
 predata_dandan/
+*.jpg
+
 
 
 output/
